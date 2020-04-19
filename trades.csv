@@ -1,4 +1,4 @@
-type,price,amount, tid,date
+type,price,amount, tid,datestamp
 "ask",363.27,0.20,0.843110018,1/8/2019
 "bid",364.93,0.10,0.225020427,4/8/2019
 "bid",360.98,0.20,0.948203337,7/8/2019
